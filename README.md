@@ -1,2 +1,3 @@
-# Mikrotik-Redes-e-Seguranca
-Guia prático de configuração inicial e hardening de roteadores MikroTik (RouterOS) via WinBox. Do reset de fábrica à estruturação de uma rede segura com firewall, DHCP, NAT e boas práticas documentadas para laboratórios e ambientes de TI.
+# 🛡️ MikroTik Security & Configuração Básica (WinBox)
+
+Guia prático de configuração inicial e hardening de roteadores **MikroTik (RouterOS)** usando o **WinBox**, do reset de fábrica até uma rede funcionando com firewall e boas práticas de segurança aplicadas desde o primeiro acesso.
